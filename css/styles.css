@@ -1,0 +1,20 @@
+.intro {
+  text-align: center;
+
+}
+
+.choice {
+  font-style: italic;
+}
+
+.differentSection {
+  border: 2px solid purple;
+  background-color: gray;
+  padding: 6px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.subDifferentSection {
+    margin-left: 45px;
+}
