@@ -18,3 +18,11 @@
 .subDifferentSection {
     margin-left: 45px;
 }
+
+#women {
+  display: none;
+}
+
+#men {
+  display:none;
+}
